@@ -23,7 +23,7 @@ Uses [Zero banking site](http://zero.webappsecurity.com/index.html) for scenario
 ### How to execute test
 
 1. Through IDE: right click on "TestsToExecute.java" and run "verifyLogin()"
-2. Through IDE: right clicj on "testng.xml" and run
+2. Through IDE: right click on "testng.xml" and run
 3. Through command prompt: mvn test
 
 ### Reports from execution
